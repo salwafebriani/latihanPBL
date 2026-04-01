@@ -18,4 +18,4 @@ jobs:
         run: npm install -g htmlhint
 
       - name: Periksa HTML
-        run: htmlhint"**/*.html"
+        run: htmlhint "**/*.html"
